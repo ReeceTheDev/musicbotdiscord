@@ -1,6 +1,6 @@
-**Source code of my bot (HYDRO MUSIC)! **
+*Source code of my bot (HYDRO MUSIC)! 
 
-**How To Use :**
+How To Use :
 Fill in `config.json`
 
 Run `npm install` and `npm install node.js @discordjs/opus discord.js ffmpeg-static figlet lyrics-finder string-progressbar ytdl-core discord-ytdl-core youtube-sr` 
