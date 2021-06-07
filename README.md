@@ -10,6 +10,7 @@ And Then Use `node index.js` To start the bot!
 **if you have ANY ISSUES Contact Me On Discord @ Reece_#0001**!
 
 ▬▬▬▬▬▬ Steps if using `bat` files ▬▬▬▬▬▬
+
 Fill in `config.json`
 
 Open `setup.bat`
